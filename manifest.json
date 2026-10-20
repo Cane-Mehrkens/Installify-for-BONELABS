@@ -1,0 +1,7 @@
+{
+  "name": "Installify",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Cane-Mehrkens/Installify-for-BONELABS",
+  "description": "One-click BONELAB mod installer: scans a folder for ZIPs and unpacked mods, finds your game and puts every mod in the right place.",
+  "dependencies": []
+}

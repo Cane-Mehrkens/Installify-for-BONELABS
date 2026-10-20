@@ -1,7 +1,3 @@
-# Installify-for-BONELABS
-Simple .bat Script that does the work for you when MOD.IO fails
-**PLEASE CONTACT ME IF YOU FIND BUGS/MODS THAT WILL NOT INSTALL VIA INSTALLIFY**
-
 ## Disclaimer
 
 **Installify is a fan-made tool and is not affiliated with Stress Level Zero or mod.io. Use it at your own risk and keep a backup of mods you care about.**
